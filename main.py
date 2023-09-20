@@ -4,6 +4,7 @@ def add_func(n1,n2):
 def add_func(n1,n2):
     return n1 * n2
 
+    return n1 - n2
 num1 = 100
 num2 = 200
 
